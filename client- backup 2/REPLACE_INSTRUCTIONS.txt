@@ -1,0 +1,15 @@
+TABLEFLOW MIDNIGHT CLIENT
+
+1. Stop the frontend with Ctrl+C.
+2. Rename your current folder:
+   client -> client-backup
+3. Copy this new client folder into:
+   C:\Users\STUDENT\Desktop\tableflow\client
+4. Open Command Prompt:
+   cd "C:\Users\STUDENT\Desktop\tableflow\client"
+   npm install
+   npm run dev
+5. Open http://localhost:5173 and press Ctrl+Shift+R once.
+
+The server/backend folder is not changed.
+The MongoDB connection and database data are not changed.
